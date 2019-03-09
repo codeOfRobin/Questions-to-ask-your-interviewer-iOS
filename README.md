@@ -24,7 +24,7 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] What’s the handoff process like?
 	- [ ] Do you let devs get down and dirty with sketch files?
 	- [ ] Do you focus on making your android and iOS apps look consistent?
-	- [ ] Example of the above: Do you have the “title” of a VC on the left in iOS/on the center in android for consistency? Do you have a modal vc presented with a back arrow on the left?
+	- [ ] Example of the above: Do you have the “title” of a VC on the left in iOS/on the center in android for consistency? Do you have a modal View Controller presented with a back arrow on the left?
 - [ ] Q/A?
 	- [ ] What’s the handoff-to-QA process like?
 - [ ] Learning
