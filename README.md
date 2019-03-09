@@ -20,6 +20,7 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] Are there any private spaces in your office?
 	- [ ] Is there  a gym/field/court close to your office for physical activity?
 	- [ ] Do people feel comfortable calling attention to systemic issues/heavily “band-aid”-ed systems?
+	- [ ] Are any of your engineering managers mobile engineers? Do mobile devs feel like they have to learn backend dev to "prove themselves" / feel like they have a seat at the table?
 - [ ] Designers?
 	- [ ] What’s the handoff process like?
 	- [ ] Do you let devs get down and dirty with sketch files?
