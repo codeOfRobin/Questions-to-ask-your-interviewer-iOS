@@ -1,5 +1,5 @@
 # Foreword
-These are a few questions I've gathered based on my experiences in a few orgs. PRs welcome! (especially on culture/diversity topics)
+These are a few questions I've gathered based on my experiences in a few orgs. PRs welcome! (especially on culture and diversity topics)
 
 
 # Questions to ask
