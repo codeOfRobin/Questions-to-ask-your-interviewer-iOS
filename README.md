@@ -13,6 +13,7 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 - [ ] What architectural patterns are you using to make development easier or more consistent? What problems with your current approach have you come across after settling on one (if you have one)?
 - [ ] Team/People
 	- [ ] comms - slack?
+	<!--alex ignore sick-->
 	- [ ] Do people ever take sick days to get work done?
 	- [ ] When was the last time someone worked a late night/weekend in order to meet a deadline?
 	- [ ] How many meetings do you have in a day?
@@ -23,7 +24,7 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] Are any of your engineering managers mobile engineers? Do mobile devs feel like they have to learn backend dev to "prove themselves" / feel like they have a seat at the table?
 - [ ] Designers?
 	- [ ] What’s the handoff process like?
-	- [ ] Do you let devs get down and dirty with sketch files?
+	- [ ] Do you let devs get into the weeds and edit/view sketch files (as opposed to say, viewing them through zeplin/invision)?
 	- [ ] Do you focus on making your android and iOS apps look consistent?
 	- [ ] Example of the above: Do you have the “title” of a VC on the left in iOS/on the center in android for consistency? Do you have a modal View Controller presented with a back arrow on the left?
 - [ ] Q/A?
