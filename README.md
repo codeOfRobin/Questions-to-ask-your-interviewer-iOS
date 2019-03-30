@@ -19,7 +19,8 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] comms - slack?
 	- [ ] Do people ever take sick days to get work done?
 	- [ ] When was the last time someone worked a late night/weekend in order to meet a deadline?
-	- [ ] How many meetings do you have in a day?
+	- [ ] Does the company support/allow remote work? How about working from home?
+	- [ ] How many meetings do you have in a day? Do you have the liberty to say no to meetings?
 	- [ ] Does your calendar look like a losing game of tetris? Do you have large continuous uninterrupted hours?
 	- [ ] Are there any private spaces in your office?
 	- [ ] Is there  a gym/field/court close to your office for physical activity?
