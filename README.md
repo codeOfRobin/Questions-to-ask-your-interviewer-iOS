@@ -10,13 +10,18 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] Does it have several environment references?
 	- [ ] Can you dry run a lane on your machine right now?
 	- [ ] Codesigning? 
+- [ ] Testing ? 
+	- [ ] Does the management feel testing is not an important aspect of software development / can be taken up later?
+	- [ ] How many people in the team have heard about Test Driven Development?
+	- [ ] What are the types of test you write (Unit/Integration/functional/UI)?
 - [ ] What architectural patterns are you using to make development easier or more consistent? What problems with your current approach have you come across after settling on one (if you have one)?
 - [ ] Team/People
 	- [ ] comms - slack?
 	<!--alex ignore sick-->
 	- [ ] Do people ever take sick days to get work done?
 	- [ ] When was the last time someone worked a late night/weekend in order to meet a deadline?
-	- [ ] How many meetings do you have in a day?
+	- [ ] Does the company support/allow remote work? How about working from home?
+	- [ ] How many meetings do you have in a day? Do you have the liberty to say no to meetings?
 	- [ ] Does your calendar look like a losing game of tetris? Do you have large continuous uninterrupted hours?
 	- [ ] Are there any private spaces in your office?
 	- [ ] Is there  a gym/field/court close to your office for physical activity?
@@ -29,6 +34,7 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] Example of the above: Do you have the “title” of a VC on the left in iOS/on the center in android for consistency? Do you have a modal View Controller presented with a back arrow on the left?
 - [ ] Q/A?
 	- [ ] What’s the handoff-to-QA process like?
+	- [ ] How does the QA team test applications? How is regression testing done? Is there any test automation present?
 - [ ] Learning
 	- [ ] Do you sponsor conference tickets?
 	- [ ] Books/online resources?
