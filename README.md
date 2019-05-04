@@ -7,8 +7,8 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 - [ ] CI ? 
 	- [ ] How many apps/targets/schemes?
 	- [ ] How big is your Fastfile?
-	- [ ] Does it have several environment references?
-	- [ ] Can you dry run a lane on your machine right now?
+	- [ ] Does it have several environment references (ENV["Something"] make things more difficult to debug)?
+	- [ ] Can you dry run a lane on your machine right now (CI machines should not be *unique* in any way, if possible)?
 	- [ ] Codesigning? 
 - [ ] Testing ? 
 	- [ ] Does the management feel testing is not an important aspect of software development / can be taken up later?
