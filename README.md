@@ -10,6 +10,7 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] Does it have several environment references (ENV["Something"] make things more difficult to debug)?
 	- [ ] Can you dry run a lane on your machine right now (CI machines should not be *unique* in any way, if possible)?
 	- [ ] Codesigning? 
+	- [ ] Does your CI script modify the project before building it (other than say, incrementing build numbers?). (More mutation = more unpredictable CI builds)
 - [ ] Testing ? 
 	- [ ] Does the management feel testing is not an important aspect of software development / can be taken up later?
 	- [ ] How many people in the team have heard about Test Driven Development?
