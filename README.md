@@ -44,3 +44,5 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] How involved are devs in product decisions?
 	- [ ] Do you consider the societal impact of the products you’re making?
 	- [ ] Does your marketing org ensure your marketing materials are inclusive (I like to call this the [Revolut filter](https://twitter.com/ingridepure/status/1097486380152827904)) ?
+- [ ] QoL
+	- [ ] Does your workplace overly manage MacBooks at work (I've learnt places lock down sudo, don't allow App Store access etc which is utterly stupid)
