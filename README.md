@@ -46,3 +46,5 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] Does your marketing org ensure your marketing materials are inclusive (I like to call this the [Revolut filter](https://twitter.com/ingridepure/status/1097486380152827904)) ?
 - [ ] QoL
 	- [ ] Does your workplace overly manage MacBooks at work (I've learnt places lock down sudo, don't allow App Store access etc which is utterly foolish)
+	- [ ] Do you have an open office?
+	- [ ] If you do, do you have private spaces? Do people quarrel over the few private spaces like in WeWork locations around the world? https://www.wsj.com/articles/the-best-spot-in-the-office-is-a-phone-boothif-you-can-get-into-one-1543333379
