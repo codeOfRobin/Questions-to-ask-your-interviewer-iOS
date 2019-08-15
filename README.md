@@ -53,7 +53,7 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] [Is there bureaucracy around procurement?](https://twitter.com/JoshWComeau/status/1160592396918448128)
 	- [ ] [How long would it take to make a copy change?](https://twitter.com/marcuslyons_/status/1160594191153393664). Honestly, I'd consider anything over an hour (including build and deploy time) a red flag. Also, excellent @patio thread in the replies!
 	- [ ] [How do you solve disagreement between engineers?](https://twitter.com/xander76/status/1160670531785580545). Great point about HiPPO in the replies.
-	- [ ] Another great list: https://gist.github.com/vcarl/14275c72baf976ff1665392e14225dcc
+	- [ ] [Another](https://twitter.com/vcarl_/status/1160612257589579776) great list: https://gist.github.com/vcarl/14275c72baf976ff1665392e14225dcc
 	- [ ] [How did this position become open?](https://twitter.com/jm_rives/status/1160627079135633409). If the person mumbles something about "not hardworking enough" or "not a great fit", you might want to prod further.
 	<!--alex ignore special-->
 	- [ ] "What’s special about this org that you wouldnt have anywhere else?" - this I got from @tal who is awesome (Hi Tal!)
