@@ -57,3 +57,4 @@ These are a few questions I've gathered based on my experiences in a few orgs. P
 	- [ ] [How did this position become open?](https://twitter.com/jm_rives/status/1160627079135633409). If the person mumbles something about "not hardworking enough" or "not a great fit", you might want to prod further.
 	<!--alex ignore special-->
 	- [ ] "What’s special about this org that you wouldnt have anywhere else?" - this I got from @tal who is awesome (Hi Tal!)
+	- [ ] What's a thing/feature you built/managed that you're proud of
